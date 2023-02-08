@@ -13,7 +13,7 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://jackdee0077.github.io/daniel-jackson-website
+url: https://jackdee0077.github.io/daniel-jackson-website/
 #url: https://danieljackson.netlify.app
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -105,5 +105,5 @@ theme: landscape
 deploy:
   type: git 
   repo: https://github.com/jackdee0077/Daniel-Jackson-Website.git
-  branch: main
+  branch: github_pages
   message: "Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }}"

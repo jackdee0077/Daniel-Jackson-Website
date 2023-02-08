@@ -1,5 +1,5 @@
 ---
-title: Grace2Grace Center                                                                          
+title: GracetoGrace Center                                                                          
 date: 2023-01-25 14:29:30
 tags:
 ---
