@@ -1,32 +1,29 @@
 ---
 title: resume
 date: 2023-02-10 15:35:11
+cover_detail: https://media.licdn.com/dms/image/D4E16AQFr-RCztYXoqQ/profile-displaybackgroundimage-shrink_350_1400/0/1674075600679?e=1681948800&v=beta&t=dBs2QYiECCN7zbUB9KlEMdTQ4XMr8WuqABeTIqqJnqc
+cover_index: https://media.licdn.com/dms/image/D4E16AQFr-RCztYXoqQ/profile-displaybackgroundimage-shrink_350_1400/0/1674075600679?e=1681948800&v=beta&t=dBs2QYiECCN7zbUB9KlEMdTQ4XMr8WuqABeTIqqJnqc
 ---
-# my resume
-
-## best 
-
-# hire me
 
 # Daniel Jackson-Caternor
 (202) 339 7445 | danieljackson55@gmail.com | linkedin.com/in/danieljackson-columbia
 
-# Education
-Columbia University - Justice Through Code                                             		      		      2022 - 2023                                                  
+## Education
+### Columbia University - Justice Through Code                                             		      		      2022 - 2023                                                  
 Software Programming                                                                                                                         
 - FullStack Web Development focused on Python, Django, HTML, and CSS.    
 - Interpersonal skill training through Columbia Business School.
 
-# Dxpert Edutech                                                                                                                     	    	       2014
-## 6 month Cybersecurity Bootcamp
+### Dxpert Edutech                                                                                                                     	    	       2014
+6 month Cybersecurity Bootcamp
 - Learned Security Assessment & Authorization, Policy and Process Development, 
   Security Planning,  Incident Response, Risk Assessments, and Vulnerability Management
 
-# University of Ghana                                                                                                                    		      2005 - 2008
+### University of Ghana                                                                                                                    		      2005 - 2008
 BA. Business Administration                                                                                 
 
 ## Projects
-# Elite Eats App MVP - Group Project | Github
+Elite Eats App MVP - Group Project | Github
 -	Python with Django app that lets you leave photo and comment reviews on local restaurants
 -	Includes restaurant directory pulling restaurants from SQLite database
 -	Users can add photo and comment reviews, stored in SQLite database
@@ -55,4 +52,5 @@ Young Africana Leadership Initiative | Howard University  	  	      		          
 Resident Substance Abuse Treatment Program
 - Created lesson plans and taught digital literacy to about 30 students in mental health treatment 
 - Tutored about 40 students of various reading/writing levels to get their GEDs
+
 
