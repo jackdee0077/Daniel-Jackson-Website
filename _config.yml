@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Daniel Jackson
 subtitle: ''
 description: ''
 keywords:
@@ -13,8 +13,7 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://jackdee0077.github.io/Daniel-Jackson-Website/
-#url: https://danieljackson.netlify.app
+url: https://jackdee0077.github.io/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -98,12 +97,12 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: magnetic
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git 
-  repo: https://github.com/jackdee0077/Daniel-Jackson-Website.git
-  branch: github_pages
+  repo: https://github.com/jackdee0077/jackdee0077.github.io
+  branch: main
   message: "Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }}"
