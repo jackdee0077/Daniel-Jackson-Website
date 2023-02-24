@@ -7,4 +7,7 @@ cover_index: http://img.new.livestream.com/accounts/000000000025cd9a/14f09e9e-36
 ---
 
 
-- Feed the homeless and less fortunate at Carisma food bank, and take and mix videos of church services
+- Feed the homeless and less fortunate at Carisma food bank.
+- Take and mix videos of church services.
+- Help the outreach mission visit prisoners.
+- Mentor the youth in the community by Empowering them to resolve current issues and to develop coping strategies for the future.Acknowledging their strengths,talents and gifts and encouraging them to find ways to use them.

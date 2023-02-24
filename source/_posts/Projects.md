@@ -6,3 +6,4 @@ cover_detail: https://i.ibb.co/9hcLCGr/Elite-Eats.png
 cover_index: https://i.ibb.co/9hcLCGr/Elite-Eats.png
 ---
 [Elites Eates Mvp ](https://github.com/jackdee0077/Elite-Eats.git)
+[Tip calculator ](https://github.com/jackdee0077/tip-calculator.git)
