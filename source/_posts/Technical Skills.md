@@ -2,7 +2,7 @@
 title: Technical Skills
 date: 2023-02-22 23:43:30
 tags:
-cover_details: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQw3ympUU19tlNR7SMCGHSguvv_miWjfdOPA&usqp=CAU
+cover_detail: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQw3ympUU19tlNR7SMCGHSguvv_miWjfdOPA&usqp=CAU
 cover_index: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQw3ympUU19tlNR7SMCGHSguvv_miWjfdOPA&usqp=CAU
 ---
 ## Programming Languages:  
